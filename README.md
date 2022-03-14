@@ -1,3 +1,2 @@
-# PojavLauncher
-
-https://pojav.ml is our new home.
+DuyTechnologies website (ft. VuePress)
+Forked from [this thing](https://github.com/PojavLauncherTeam/pojavlauncher.github.io)
