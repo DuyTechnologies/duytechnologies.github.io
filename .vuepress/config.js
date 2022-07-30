@@ -29,7 +29,7 @@ module.exports = {
             href: "/styles/website.css"
         },]
     ],
-    base: '/',
+    base: '/test',
     dest: './docs',
 
 	watch: {
